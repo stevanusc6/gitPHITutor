@@ -9,7 +9,11 @@ public class HelloWorld {
 		int i =0;
 		i++;
 		
+
 		System.out.println(i);
+
+		System.out.println("a");
+
 	}
 
 }
