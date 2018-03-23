@@ -8,6 +8,8 @@ public class HelloWorld {
 		System.out.println("WWWWWWW");
 		int i =0;
 		i++;
+		
+		System.out.println(i);
 	}
 
 }
