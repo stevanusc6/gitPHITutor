@@ -10,6 +10,7 @@ public class HelloWorld {
 		i++;
 		
 		System.out.println("a");
+		System.out.println("b");
 	}
 
 }
